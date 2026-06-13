@@ -12,6 +12,9 @@ Mirrors your Android notifications to your Linux desktop — instantly, locally.
 - Dark mode
 
 ---
+## Demo
+
+!![Notification Mirror](notification mirror.png)
 
 ## 🚀 Quick Start
 
