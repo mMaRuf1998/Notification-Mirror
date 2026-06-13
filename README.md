@@ -14,7 +14,9 @@ Mirrors your Android notifications to your Linux desktop — instantly, locally.
 ---
 ## Demo
 
-<img src="Notification Mirror.png" width="100">
+<p align="center">
+  <img src="Notification Mirror.png" alt="Notification Mirror" width="550">
+</p>
 
 ## 🚀 Quick Start
 
